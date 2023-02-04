@@ -1,0 +1,20 @@
+body {
+background-color: rgb(125, 167, 181);
+}
+
+h1 {
+color: rgb(93, 61, 61);
+text-align: center;
+border-radius: 25px;
+border:solid;
+outline: 2px solid rgb(9, 9, 9);
+}
+h2 {
+    color: rgb(93, 61, 61);
+    text-align: left;
+    }
+
+p {
+font-family: verdana;
+font-size: 20px;
+}
